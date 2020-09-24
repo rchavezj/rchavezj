@@ -4,5 +4,4 @@ My favorite languages/libraries/cloud for tech stack </br></br>
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rchavezj&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=rchavezj&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
